@@ -1,3 +1,7 @@
 printf "\nhello world"
+<<<<<<< HEAD
 
 third line
+=======
+printf "\nhe"
+>>>>>>> 7b6623ec8a45264b57c193bc1b3892d4cd8dfc0f
